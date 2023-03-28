@@ -1,4 +1,4 @@
-const { formController } = require("../controllers/form.controller");
+const { formController } = require("../controllers/Form.controller");
 const { Router } = require("express");
 const router = Router();
 
